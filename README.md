@@ -1,37 +1,40 @@
-# Aryan Varshney Web Resume
+# Aryan Varshney | Business Analyst Web Resume
 
-Interactive Business Analyst web resume built with Vite and Three.js.
+Interactive web resume for **Aryan Varshney**, a Business Analyst focused on SaaS, CRM implementation, Agile delivery, client management, documentation, UAT, reporting, API integrations, and AI/LLM-enabled product workflows.
 
-## Local Preview
+## Profile Highlights
 
-```bash
-npm install
-npm run dev
-```
+- 2+ years of Business Analyst experience across Hospitality, FinTech, Healthcare, SaaS, and CRM.
+- 70+ client discovery and requirement-gathering sessions.
+- 20+ custom QloApps SaaS implementations.
+- 3 full-cycle CRM implementations across HubSpot and Salesforce Sales Cloud.
+- 100+ customer re-engagements converted into product and roadmap insights.
+- 8+ third-party API integration partnerships.
+- Hands-on work with BRD, FRD, SRS, user stories, acceptance criteria, workflows, wireframes, UAT, Jira, ERP reporting, and LLM chatbot requirements.
 
-Open `http://127.0.0.1:5173`.
+## Website Features
 
-## Build
+- Professional interactive Business Analyst web resume.
+- 3D BA workspace built with Three.js.
+- Recruiter Console with shortlist reasons and interview-style Q&A.
+- BA Workspace section showing business analysis artifacts.
+- Skills, experience, education, certifications, volunteer leadership, and hire/contact sections.
+- Sticky resume download linked to the latest Google Drive resume.
+- SEO metadata and structured profile data for better discoverability.
 
-```bash
-npm run build
-```
+## Tech Stack
 
-The production files are generated in `dist/`.
+- Vite
+- TypeScript
+- Three.js
+- HTML/CSS
+- GitHub Pages
 
-## Deploy on GitHub Pages
+## Contact
 
-1. Create a new GitHub repository.
-2. Upload/push this project to the repository.
-3. Go to repository `Settings` -> `Pages`.
-4. Under `Build and deployment`, choose `GitHub Actions`.
-5. Push to `main` or `master`.
-6. GitHub Actions will build and deploy the site automatically.
-
-The `Download Resume` buttons point to the Google Drive resume link, so replacing the file in Drive keeps the website resume download current.
-
-## Contact Form
-
-The contact form opens a prefilled email draft to `aryan.varshney94@gmail.com` with a subject based on the selected reason.
-
-This avoids third-party form downtime and works on GitHub Pages without a backend. The visitor only needs to send the draft from their email app.
+- Email: `aryan.varshney94@gmail.com`
+- Phone / WhatsApp: `+91 9457357157`
+- LinkedIn: [linkedin.com/in/varshneyaryan](https://linkedin.com/in/varshneyaryan)
+- GitHub: [github.com/thearyanvarshney](https://github.com/thearyanvarshney)
+- Location: Noida, India
+- Open to Business Analyst roles and relocation.
